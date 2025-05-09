@@ -13,10 +13,6 @@
   - [Website made for a class, not my design](https://web.engr.oregonstate.edu/~pilskale/a4-pilskale/index.html)
 
 
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 <br/>  
