@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?color=31D8F7&lines=Ethan+Pilskalns;Software+Engineer;Lifelong+learner
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31D8F7&width=435&lines=Ethan+Pilskalns;Software+Engineer;Lifelong+learner" alt="Typing SVG" /></a>
 <h3>I am a full-time student at Oregon State University, graduating December 2025</h3>
 
 <h3>Here are some of my software development projects</h3>
