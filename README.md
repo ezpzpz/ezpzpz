@@ -29,6 +29,14 @@
 
 - ⚡ Fun fact **I can speak (some) Japanese**
 
+<br/>
+### 💻 Here are some of my software development projects
+
+- 🚀 **OSU Capstone Group Project** → [NES Emulator](https://github.com/ezpzpz/OSUcapstone)
+- 🎬 **Computer Graphics Animation** → [House of Cards animation in OpenGL](https://media.oregonstate.edu/media/t/1_m14a1w21)
+- ✨ **Computer Graphics Shaders** → [CRT Scanline Shader in OpenGL](https://media.oregonstate.edu/media/t/1_u5zuu0x2)
+- 🌐 **Basic Web Design** → [Website made for a class (not my design)](https://web.engr.oregonstate.edu/~pilskale/a4-pilskale/index.html)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ethanpilskalns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethanpilskalns/" height="30" width="40" /></a>
