@@ -1,4 +1,4 @@
-<h2>Hello! My name is Ethan Pilskalns</h2>
+https://readme-typing-svg.demolab.com/demo/?color=31D8F7&lines=Ethan+Pilskalns;Software+Engineer;Lifelong+learner
 <h3>I am a full-time student at Oregon State University, graduating December 2025</h3>
 
 <h3>Here are some of my software development projects</h3>
