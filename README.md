@@ -93,8 +93,6 @@
 
 <br/>  
 
-
-<br />
 ## Dev Joke
 <br />
 <div align="center">
