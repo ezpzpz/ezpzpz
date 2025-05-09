@@ -1,22 +1,8 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31D8F7&width=435&lines=Ethan+Pilskalns;Software+Engineer;Lifelong+learner" alt="Typing SVG" /></a>
+</div>
 <h3>I am a full-time student at Oregon State University, graduating December 2025</h3>
 
-<h3>Here are some of my software development projects</h3>
-
-- <b>OSU Capstone Group Project</b>
-  - [NES Emulator](https://github.com/ezpzpz/OSUcapstone)
-- <b>Computer Graphics animation</b>
-  - [House of cards animation in OpenGL](https://media.oregonstate.edu/media/t/1_m14a1w21)
-- <b>Computer Graphics Shaders</b>
-  - [CRT Scanline Shader in OpenGL](https://media.oregonstate.edu/media/t/1_u5zuu0x2)
-- <b>Basic Web Design</b>
-  - [Website made for a class, not my design](https://web.engr.oregonstate.edu/~pilskale/a4-pilskale/index.html)
-
-
-
-  
-
-<h1 align="center">Hi 👋, I'm Ethan Pilskalns</h1>
 <h3 align="center">A passionate student from Montana, Graduating 2025 from OSU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezpzpz&label=Profile%20views&color=0e75b6&style=flat" alt="ezpzpz" /> </p>
@@ -29,7 +15,6 @@
 
 - ⚡ Fun fact **I can speak (some) Japanese**
 
-<br/>
 ### 💻 Here are some of my software development projects
 
 - 🚀 **OSU Capstone Group Project** → [NES Emulator](https://github.com/ezpzpz/OSUcapstone)
