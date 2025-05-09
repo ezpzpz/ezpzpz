@@ -95,6 +95,8 @@
 
 
 <br />
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+## Dev Joke
+<br />
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div>
