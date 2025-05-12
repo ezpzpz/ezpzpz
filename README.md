@@ -6,6 +6,7 @@
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezpzpz&label=Profile%20views&color=0e75b6&style=flat" alt="ezpzpz" /> </p>
 </div>
+
 - 🔭 I’m currently working on [NES Emulator](https://github.com/ezpzpz/OSUcapstone)
 
 - 🌱 I’m currently learning **OpenMP, Raku, Haskell**
